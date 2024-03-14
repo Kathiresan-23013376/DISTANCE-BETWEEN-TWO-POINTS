@@ -10,10 +10,21 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
-  
-
+```
+Name:KATHIRESAN K
+Reg.no:212223110021
+```
+```
+import math
+list1=[4,2]
+list2=[10,6]
+d=math.sqrt((list2[0]-list1[0])**2+(list2[1]-list1[1])**2)
+print(f"{d:.2f}")
+```
 
 ### OUTPUT:
+![image](https://github.com/Kathiresan-23013376/DISTANCE-BETWEEN-TWO-POINTS/assets/150008375/3c0454f9-3ad1-4382-b951-7c5d38668ff1)
 
 
 ### RESULT:
+Thus the program to find the distance between two points was coded and got the exact output.
