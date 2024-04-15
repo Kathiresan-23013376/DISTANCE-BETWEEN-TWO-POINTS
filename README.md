@@ -23,6 +23,7 @@ print(f"{d:.2f}")
 ```
 
 ### OUTPUT:
+![image](https://github.com/Kathiresan-23013376/DISTANCE-BETWEEN-TWO-POINTS/assets/150008375/6b65febe-9ad2-482b-9a83-0fe24f8f7735)
 ![image](https://github.com/Kathiresan-23013376/DISTANCE-BETWEEN-TWO-POINTS/assets/150008375/3c0454f9-3ad1-4382-b951-7c5d38668ff1)
 
 
